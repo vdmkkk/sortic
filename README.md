@@ -1,1 +1,1 @@
-[!sortic](./med.gif)
+![sortic](./med.gif)
