@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1643057615 source:d:\homework\sortic\functions.cpp
+	"sortic.h"
+
+1643880276 d:\homework\sortic\sortic.h
+	<iostream>
+	<string>
+	<vector>
+	<windows.h>
+	<fstream>
+
+1643056282 source:d:\homework\sortic\itc_funcs.cpp
+	"sortic.h"
+
+1643879389 source:d:\homework\sortic\main.cpp
+	"sortic.h"
+

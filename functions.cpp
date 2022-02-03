@@ -4,6 +4,10 @@ void ra(vector <int> &a) {
     itc_lshift_list(a);
 }
 
+void rb(vector<int> &b){
+    ra(b);
+}
+
 void pb(vector <int> &a, vector <int> &b) {
     int num = a[0];
     vector <int> newA;
